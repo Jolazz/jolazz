@@ -1,3 +1,4 @@
+<h1 align="center">Hi 👋 I'm Joséphine</h1>
 <h3 align="center">Fullstack developer from Le Wagon Lyon</h3>
 
 <h3 align="left">Connect with me:</h3>
