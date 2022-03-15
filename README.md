@@ -1,4 +1,4 @@
-<h3 align="center">Fullstack developer from France</h3>
+<h3 align="center">Fullstack developer from Le Wagon Lyon</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
